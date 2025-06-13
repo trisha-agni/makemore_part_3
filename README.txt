@@ -12,3 +12,5 @@ AI:
   - tanh graph flattens out as it approaches -1 or 1
   - effect: vanishing gradients
 - dead neurons
+- batch normalization
+  - stabilizes training
