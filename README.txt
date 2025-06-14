@@ -13,4 +13,10 @@ AI:
   - effect: vanishing gradients
 - dead neurons
 - batch normalization
-  - stabilizes training
+  - used to control statistics of activations in neural net
+  - usually placed after layers that have multiplication
+  - how it works
+    - calculates mean and std of activations
+    - centers batch to be unit gaussian
+    - offsets and scales batch by learned bias and gain
+    - also keeps track of running mean and std to be used during inference
