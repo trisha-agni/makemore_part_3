@@ -4,6 +4,8 @@ What I learned:
 Python:
 
 Math:
+- standard deviation: how spread out data is from mean
+- normal/gaussian distribution: probability distribution symmetric about mean
 
 AI:
 - tanh saturation
