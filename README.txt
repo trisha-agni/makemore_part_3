@@ -1,5 +1,3 @@
-Description:
-
 What I learned:
 Python:
 - torch:
