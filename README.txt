@@ -23,3 +23,4 @@ AI:
     - centers batch to be unit Gaussian
     - offsets and scales batch by learned bias and gain
     - also keeps track of running mean and std to be used during inference
+- using graphs to diagnose issues in a complex neural net
